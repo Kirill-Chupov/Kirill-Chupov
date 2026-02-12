@@ -34,4 +34,4 @@
 Стек: Qt, QMake.
 
 [Аудиоприложение на STM32]() - проект закрывает производственную задачу, передачи речи и телеметрии.\
-Стек: C++, STM32F4, STM32CubeIDE, EasyEDA, Hardware Debugging.
+Стек: C, STM32F4, STM32CubeIDE, EasyEDA, Hardware Debugging.
